@@ -17,4 +17,4 @@ def lambda_handler(event, context):
      print(response['Instances'][0]['InstanceId'])
 ```
 
-![App Screenshot](example1.png) 
+![App Screenshot](example.png) 
