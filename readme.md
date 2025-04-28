@@ -1,6 +1,6 @@
 > [!NOTE]
 >
-> Conteúdos deste repositório não foram revisados ainda. 
+> Os conteúdos deste repositório não foram revisados ainda. 
 
 ## Description
 
